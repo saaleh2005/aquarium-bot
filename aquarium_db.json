@@ -1,0 +1,19 @@
+{
+  "fish": [
+    {
+      "fa_name": "فایتر",
+      "en_name": "Betta",
+      "fa_desc": "ماهی تهاجمی و تنهازیست",
+      "en_desc": "Aggressive solitary fish",
+      "temp": "24-28",
+      "ph": "6.5-7.5",
+      "care": {
+        "fa": "آب گرم و تمیز",
+        "en": "Warm clean water"
+      }
+    }
+  ],
+  "plants": [],
+  "amphibians": [],
+  "inverts": []
+}
