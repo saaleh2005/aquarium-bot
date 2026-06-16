@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🔑 گرفتن توکن از Render Environment Variables
-TOKEN = os.getenv("8434421974:AAGWJ-JUvdGeLU4e7TpHcqLQiKLj7BSpmvo")
+TOKEN = os.getenv("TOKEN")
 
 DB_FILE = "aquarium_db.json"
 
