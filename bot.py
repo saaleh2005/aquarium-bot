@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🔑 گرفتن توکن از Render Environment Variables
-TOKEN = "8434421974:AAGWJ-JUvdGeLU4e7TpHcqLQiKLj7BSpmvo"
+TOKEN = "8434421974:AAEHkLO3Bb9ZwF4dVnaeoEfPcRP_Q_e6UBM"
 
 DB_FILE = "aquarium_db.json"
 
