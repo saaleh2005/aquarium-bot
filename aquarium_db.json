@@ -3,13 +3,25 @@
     {
       "fa_name": "فایتر",
       "en_name": "Betta",
-      "fa_desc": "ماهی تهاجمی و تنهازیست",
-      "en_desc": "Aggressive solitary fish",
+      "fa_desc": "...",
+      "en_desc": "...",
       "temp": "24-28",
       "ph": "6.5-7.5",
       "care": {
-        "fa": "آب گرم و تمیز",
-        "en": "Warm clean water"
+        "fa": "...",
+        "en": "..."
+      }
+    },
+    {
+      "fa_name": "گوپی",
+      "en_name": "Guppy",
+      "fa_desc": "...",
+      "en_desc": "...",
+      "temp": "22-28",
+      "ph": "7-8",
+      "care": {
+        "fa": "...",
+        "en": "..."
       }
     }
   ],
