@@ -1,4 +1,5 @@
 import json
+import requests
 import os
 from telegram.ext import CallbackQueryHandler
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
