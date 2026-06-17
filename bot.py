@@ -53,7 +53,7 @@ def search_item(text, db):
 # =========================
 
 def ask_gemma(question):
-
+    print("KEY:", OPENROUTER_API_KEY)
     response = requests.post(
         "https://openrouter.ai/api/v1/chat/completions",
         headers={
